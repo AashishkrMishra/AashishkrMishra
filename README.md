@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AashishkrMishra
-- 👀 I’m interested in DSA and competitive programming.
+- 👀 I’m interested in DSA, AI/ML and competitive programming.
 - 🌱 I’m currently learning Web/App development
 - 💞️ I’m looking to collaborate on projects related to frontend and backend.
 - 📫 How to reach me @aashishkrmishraslg@gmail.com
